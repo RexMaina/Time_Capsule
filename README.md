@@ -110,20 +110,24 @@ Time_Capsule/
 └── README.md
 ```
 
----
-
-## 🧑‍💻 Author
-
-**Rex Maina**  
-[GitHub](https://github.com/RexMaina) • [LinkedIn](https://www.linkedin.com/in/rex-maina-7b7474158/)  
-
----
-
 ## ⭐️ Show your support
 
 If you liked this project:
 - ⭐️ Star it on GitHub
 - 🐛 Submit issues or PRs
 - 💬 Share with your friends
+
+
+## 🧑‍💻 Author
+
+<div align="center">
+  <a href="mailto:rexwanyeki@gmail.com">📧 Email</a> | 
+  <a href="https://linkedin.com/in/rex-maina-7b7474158">🌐 LinkedIn</a> | 
+  <a href="tel:+254792615071">📞 +254 792 615 071</a>
+</div>
+
+<div align="center">
+  <sub>Built with ♥ by Rex Maina Wanyeki</sub>
+</div>
 
 
