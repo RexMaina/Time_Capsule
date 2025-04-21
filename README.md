@@ -26,20 +26,28 @@ Collaborative memory sharing. Save and view memories shared between friends.
 ## 🧰 Tech Stack
 
 ## 🛠 Built With
-<div align="center">
+## 🛠 Built With
 
-| Frontend         | Backend         | AI & Tools              |
-|------------------|-----------------|-------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Mood Prediction](https://img.shields.io/badge/Mood_AI-FF6384?logo=databricks&logoColor=white) |
+### Frontend
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-</div>
+### Backend
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
-| Frontend | Backend | AI Models |
-|----------|---------|-----------|
-| React.js | Flask   | HuggingFace Transformers (BLIP) |
-| CSS      | TensorFlow/Keras | Custom-trained mood prediction model |
+### AI & Machine Learning
+- ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace_Transformers-FFD21F?logo=huggingface&logoColor=black) (BLIP model for story generation)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) (Age progression model)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) (Mood prediction)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) (Image processing)
+- Custom AI Models:
+  - Age Progression Model (CNN-based)
+  - Mood Prediction Classifier (LSTM-based)
+  - Story Generation (BLIP fine-tuned)
 
 ---
 
