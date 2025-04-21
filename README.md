@@ -25,6 +25,17 @@ Collaborative memory sharing. Save and view memories shared between friends.
 
 ## 🧰 Tech Stack
 
+## 🛠 Built With
+<div align="center">
+
+| Frontend         | Backend         | AI & Tools              |
+|------------------|-----------------|-------------------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Mood Prediction](https://img.shields.io/badge/Mood_AI-FF6384?logo=databricks&logoColor=white) |
+
+</div>
+
 | Frontend | Backend | AI Models |
 |----------|---------|-----------|
 | React.js | Flask   | HuggingFace Transformers (BLIP) |
